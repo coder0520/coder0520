@@ -6,7 +6,6 @@
 <p align="center">
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> 
  </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder0520&label=Profile%20views&color=0e75b6&style=flat" alt="coder0520" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder0520" alt="coder0520" /></a> </p>
 
