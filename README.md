@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ozodbek Po'latjonov</h1>
 <h3 align="center">A Frontend Developer from Uzbekistan</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=azizbekrakhimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekrakhimjonov" /> </p>
-<p align="center" 50px;>
+<p align="center">
 <img src="https://i.pinimg.com/originals/0b/8f/72/0b8f72501d1f843a1ddf67784a6e26f9.gif"> 
  </p>
 
