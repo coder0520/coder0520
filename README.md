@@ -4,7 +4,7 @@
 <h3 align="center">A Frontend Developer from Uzbekistan</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=azizbekrakhimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekrakhimjonov" /> </p>
 <p align="center">
-<img src="https://i.pinimg.com/originals/0b/8f/60/0b8f72501d1f843a1ddf67784a6e26f9.gif"> 
+<img src="https://i.pinimg.com/originals/0b/8f/72/0b8f72501d1f843a1ddf67784a6e26f9.gif"> 
  </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder0520" alt="coder0520" /></a> </p>
